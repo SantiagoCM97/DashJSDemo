@@ -1,0 +1,16 @@
+{
+  "name": "dashdemo",
+  "version": "1.0.0",
+  "description": "asdf",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "santi",
+  "license": "ISC",
+  "dependencies": {
+    "@dashevo/wallet-lib": "^5.0.3",
+    "core-js": "^3.6.4",
+    "dash": "^1.1.1"
+  }
+}
